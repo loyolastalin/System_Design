@@ -1,0 +1,16 @@
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\cApp1.exe
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\cApp1.deps.json
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\cApp1.runtimeconfig.json
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\cApp1.runtimeconfig.dev.json
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\cApp1.dll
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\ref\cApp1.dll
+D:\SystemDesign\vscode\cApp1\bin\Debug\net5.0\cApp1.pdb
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.csprojAssemblyReference.cache
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.AssemblyInfoInputs.cache
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.AssemblyInfo.cs
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.csproj.CoreCompileInputs.cache
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.dll
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\ref\cApp1.dll
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.pdb
+D:\SystemDesign\vscode\cApp1\obj\Debug\net5.0\cApp1.genruntimeconfig.cache
