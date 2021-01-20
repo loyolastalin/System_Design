@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFUserInterface", "WPFUserInterface\WPFUserInterface.csproj", "{14FE9A43-1A16-4CC4-9EF5-8F0E22EBB8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncParallel", "AsyncParallel\AsyncParallel.csproj", "{D684E808-A921-4C44-AF08-A74B8741F253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{14FE9A43-1A16-4CC4-9EF5-8F0E22EBB8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14FE9A43-1A16-4CC4-9EF5-8F0E22EBB8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14FE9A43-1A16-4CC4-9EF5-8F0E22EBB8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D684E808-A921-4C44-AF08-A74B8741F253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D684E808-A921-4C44-AF08-A74B8741F253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D684E808-A921-4C44-AF08-A74B8741F253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D684E808-A921-4C44-AF08-A74B8741F253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

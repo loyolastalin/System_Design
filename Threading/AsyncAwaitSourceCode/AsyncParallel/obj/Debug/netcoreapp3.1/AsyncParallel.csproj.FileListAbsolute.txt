@@ -1,0 +1,13 @@
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\bin\Debug\netcoreapp3.1\AsyncParallel.exe
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\bin\Debug\netcoreapp3.1\AsyncParallel.deps.json
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\bin\Debug\netcoreapp3.1\AsyncParallel.runtimeconfig.json
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\bin\Debug\netcoreapp3.1\AsyncParallel.runtimeconfig.dev.json
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\bin\Debug\netcoreapp3.1\AsyncParallel.dll
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\bin\Debug\netcoreapp3.1\AsyncParallel.pdb
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.csprojAssemblyReference.cache
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.AssemblyInfoInputs.cache
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.AssemblyInfo.cs
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.csproj.CoreCompileInputs.cache
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.dll
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.pdb
+D:\SystemDesign\System_Design\Threading\AsyncAwaitSourceCode\AsyncParallel\obj\Debug\netcoreapp3.1\AsyncParallel.genruntimeconfig.cache
