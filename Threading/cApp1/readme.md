@@ -8,3 +8,5 @@ dotnet run
 
 dotnet build . /p:StartupObject=cApp1.Parallel_Model
 dotnet run
+
+![Cmdline](ConcurrencyVsParallel.JPG)
