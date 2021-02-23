@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZzsUeqrPc0M8DXhcrnqnfZjwq7uFHLKbXom4ZY6qARgCvz1B3DfHC5+QGGZazC801m9v3dnrGJ3boS1Pq3ddQ==",
+  "success": true,
+  "projectFilePath": "D:\\SystemDesign\\System_Design\\MessageBroker\\RabbitMqSubscriber\\RabbitMqSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loyola_soosai\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\loyola_soosai\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

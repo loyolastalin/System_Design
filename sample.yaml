@@ -1,0 +1,93 @@
+openapi: 3.0.1
+info:
+  title: Title
+  description: Provides Application Summary 
+  version: 1.0.0
+servers:
+  - url: 'http://domainame/summary'
+    description: Production server (uses live data)
+
+paths:
+  /v1/summary:
+    post:
+      tags:
+        - ApplicationSummary
+      summary: Exposes the Application Summary data retrival functionality
+      operationId: GetApplicationSummary
+      requestBody:
+        description: DataRequest object parameter to fetch data
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DataRequest'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DataResponse'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/DataResponse'
+        '400':
+          description: Status 400 - Bad Request.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '401':
+          description: Status 401 - Unauthorised.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '500':
+          description: Status 500 - Internal Server Error.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  schemas:
+    DataRequest:
+      required:
+        - ApplicantSurname
+       
+      type: object
+      properties:
+        ApplicantSurname:
+          format: nvarchar(50)
+          type: string
+          description: Applicant Surname for applicant in context
+       
+    DataResponse:
+      required:
+        - ApplicantSurname
+      
+      type: object
+      properties:
+        ApplicantSurname:
+          format: nvarchar(50)
+          type: string
+          description: Applicant Surname for applicant in context
+       
+    Error:
+      type: object
+      properties:
+        Code:
+          type: string
+          maxLength: 100
+        Message:
+          type: string
+          maxLength: 255
